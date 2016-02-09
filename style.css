@@ -1,7 +1,9 @@
 .H1 {
+  position: center;
   background-color: blue;
 }
 
 .H2{
+   position: center;
    background-color: gray;
 }
